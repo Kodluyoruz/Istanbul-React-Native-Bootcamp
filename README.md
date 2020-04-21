@@ -69,10 +69,10 @@ Bu eğitim ile hem bir yazılım projesinin temel yönetim kavramlarını hem de
 - React Native vs Android & iOS
 - Cross-platform bir yapı nasıl çalışır?
 - Kurulum adımları nelerdir?
-  a) MacOS ve Windows kurulumları nasıl yapılır?
-  b) Developer hesabı alınımı ve projeyi simülatörde ve gerçek cihazda çalıştırma
-  c) Genymotion kurulumu
-  d) VS Code IDE tanıtımı ve örnek kullanımı..
+  * a) MacOS ve Windows kurulumları nasıl yapılır?
+  * b) Developer hesabı alınımı ve projeyi simülatörde ve gerçek cihazda çalıştırma
+  * c) Genymotion kurulumu
+  * d) VS Code IDE tanıtımı ve örnek kullanımı..
 - CLI komutları ve proje kurulumu nasıl yapılır?
 - Proje dizini incelenmesi..
 - Projenin iOS ve Android taraflarını incelenmesi..
